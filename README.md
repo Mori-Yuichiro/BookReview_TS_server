@@ -27,6 +27,6 @@ npm install
 
 4. 以下のコマンドを入力して起動する
 ```
-node app.js
+npm run dev
 ```
 s
